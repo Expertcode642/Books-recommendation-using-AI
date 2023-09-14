@@ -1,1 +1,3 @@
 # Books-recommendation-using-AI
+FIRST IMPORT THE DATA SETS
+THEN RUN THEN MAIN FUNCTION
